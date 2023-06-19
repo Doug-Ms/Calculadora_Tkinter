@@ -20,6 +20,9 @@ Pré-requisitos: Python All Versions
 # clonar repositório
 git clone https://github.com/Doug-Ms/Calculadora_Tkinter
 
+# entrar na pasta do projeto back end
+cd Calculadora_Tkinter
+
 # executar o projeto
 calculadora_tkinter.py
 ```
